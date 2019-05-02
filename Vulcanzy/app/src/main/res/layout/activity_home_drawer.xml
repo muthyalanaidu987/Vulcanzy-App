@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_my_events"
+            android:icon="@drawable/ic_my_events"
+            android:title="My_Events" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_schedule"
+            android:title="Schedule" />
+    </group>
+
+    <item android:title="About Event">
+        <menu>
+            <item
+                android:id="@+id/nav_about_vulcanzy"
+                android:icon="@drawable/ic_about_vulcanzy"
+                android:title="About Vulcanzy" />
+            <item
+                android:id="@+id/nav_sponsors"
+                android:icon="@drawable/ic_sponsors"
+                android:title="Sponsors" />
+            <item
+                android:id="@+id/nav_contact"
+                android:icon="@drawable/ic_perm_contact_us"
+                android:title="Contact Us"/>
+            <item
+                android:id="@+id/nav_gallery"
+                android:icon="@drawable/ic_menu_gallery"
+                android:title="Gallery" />
+        </menu>
+    </item>
+</menu>

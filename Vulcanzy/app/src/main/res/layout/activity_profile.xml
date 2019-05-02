@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout
+    android:layout_width="wrap_content"
+    android:orientation="vertical"
+    android:layout_margin="30dp"
+    android:background="@drawable/signuplayout"
+    android:layout_height="match_parent">
+
+
+            <GridLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:columnCount="2"
+                android:padding="10dp"
+                android:rowCount="10">
+
+                <TextView
+                    android:id="@+id/p0"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="USERNAME : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:padding="10dp"
+                    android:id="@+id/username"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="naveen123"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/p1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="NAME : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="naveen"
+                    android:padding="10dp"
+                    android:textColor="@color/white"/>
+
+                <TextView
+                    android:id="@+id/p2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="COLLEGE : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/college"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="shashi"
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/p3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="EMAIL : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/mail"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="shashi@gmail.com"
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/p4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="MOBILE NUMBER : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:id="@+id/mobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="9999999999"
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+
+
+                <TextView
+                    android:id="@+id/p5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|right"
+                    android:text="GENDER : "
+                    android:padding="10dp"
+                    android:textColor="@color/white" />
+
+                <TextView
+                    android:padding="10dp"
+                    android:id="@+id/gender"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="top|left"
+                    android:text="Male"
+                    android:textColor="@color/white"/>
+            </GridLayout>
+            <View
+                android:layout_width="wrap_content"
+                android:layout_height="3dp"
+                android:background="@color/greylight"
+                android:layout_marginTop="5dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                />
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="30dp"
+                android:layout_margin="30dp"
+                android:textColor="@color/white"
+                android:background="@drawable/frag1"
+                android:layout_gravity="center_horizontal"
+                android:text="REGISTERED EVENTS : "
+                />
+    <ProgressBar
+        android:id="@+id/pbar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"/>
+
+</LinearLayout>
+
+</ScrollView>

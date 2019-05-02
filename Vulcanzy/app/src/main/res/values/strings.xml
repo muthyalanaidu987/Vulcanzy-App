@@ -1,0 +1,838 @@
+<resources>
+    <string name="app_name">Vulcanzy</string>
+    <string-array name="chem">
+        <item>LECTURES BY IV YEAR</item>
+        <item>Presentation</item>
+        <item>It is an innovatively designed quiz which consists of several stages while carrying out the elimination parallelly.</item>
+        <item>Flowsheet development using cardboard and thermocol sheets to show all the equipments in a process</item>
+        <item>Crosswords/block arrangements) (chemical and chemistry based puzzles)</item>
+        <item>Set of tasks to be performed within the specified time limit</item>
+    </string-array>
+
+    <string-array name="lnd">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+    <string-array name="cse">
+        <item>It is an amusing event filled with bliss whose maxim is revive your light and realize your worth. This includes questions with lateral and rational thinking, Pictionary and many other fillers.
+Less</item>
+        <item>It is an exemplary platform for exhibiting your understanding of Cryptography.
+            Encrypted code snippets have to be converted into a decrypted one using some algorithms and a key.
+            Each decrypted clue will lead you to another snippet. The final snippet is the same for all which is the destination point.</item>
+        <item>Talk is ephemeral, code is perpetual. So, this Code sprint offers you with the best endeavours which consists of 3 rounds.
+            The screening assessment is done using TestQ. The other sub events are blind coding and debugging.</item>
+        <item>
+            It is a combination of perky events which rejuvenates our creativity along with brain busters on contemporary technologies. For instance, mini games like objects are provided in a bulk related to specific entity in CS World which have to be picked by participants based on the given keyword
+        </item>
+        <item>Do you think your messages can be corrupted?? Well, they can be. Then how to circumvent this? Here we help you in complete understanding of Cryptography
+</item>
+    </string-array>
+    <string-array name="ece">
+        <item> Foresee is a captivating event that enhances a individual’s pragmatic approach towards electronics and changes your opinion on how interesting it is to build or solve a circuit . The event 4’c will help you explore the fun behind circuits in four rounds by testing the way you connect, correct , chase for the components and build the circuit.</item>
+
+        <item>join us in a knowledge enhancing workshop for the students of all engineering disciplines. This workshop is to equip students with the concepts of Image analysis and serve as a platform to deliver hands-on experience to the students on Image processing techniques using MATLAB for real time applications. This also helps photographers to enhance their image by passing through various processing tools.</item>
+
+
+        <item>We, the engineers, are known to be the WIZARDS of the real world because we create many wonders. It does not take much strength to do things, but it requires a great deal of strength to decide what to do. Use your brain as your magical wand and come up with your innovative ideas as your spells. “Our Excellence lies in the way we push our limits”. Push your limits and create magical and electro logical solutions that can solve complex real world problems.</item>
+
+        <item> Warm up your grey matter as ECEA is back again with it is quiz contest. Slay your opponents and emerge as the winner in the clash of brain over brawn. Get ready for a roller coaster ride into the intense world of techno quizzing.</item>
+        <item>Participants have to design and build a car which is capable of escaping the maze in the shortest possible time. The car should only be built using limited components given by us . The model must be able to drive through the maze from one corner to another. The car should be controlled using an app.</item>
+        <item>Playing a treasure hunt is always thrilling right? How about adding flavor to it Here we are with this fascinating event
+</item>
+        <item>Are you into technical stuff? Do you have innovative ideas that you would like to share but you do not have the proper pandemonium? Then your search ends here . This event is a call out to all the innovative heads out there . This event not only gives you a chance to present your novel idea but also helps you to become more confident about yourselves. It is a wonderful event with lots of inflow of knowledge . Exciting gifts await for the best papers.
+</item>
+    </string-array>
+
+    <string-array name="eee">
+        <item>Do you wish to be declared as the King of The Circuit Throne? Prove your worth by defeating your opponents in the field of Circuitry. Form a team of two or three members and rectify faulty circuits, determine outputs and design problems. What are you waiting for? Let the challenge begin!</item>
+
+        <item>Ever heard of mass extinctions? During the past 500 million years, there have been 5 mass extinctions due to natural climate changes, huge volcanic eruptions or catastrophic meteor strikes. But now, scientists say we were on the verge of a 6th one and this time, we are responsible for our own destruction. Join us on a platform where you can present your ideas to combat Global Warming. You can do it in the form of a presentation, a paper or simply speak your heart out. The team to come up with the most innovative and economical idea will be recognized and possibly sponsored. A little idea can go a long way! Do your bit to help save our Earth.</item>
+        <item>We present a new twist to the classic treasure hunt! But this time, scientists are the treasure. Bag points by finding the scientists scattered throughout the campus and answering their mysterious questions. The duo with the maximum points will take home the prize. Gear up and get ready to time-travel back to the era of major scientific breakthroughs!</item>
+
+        <item>Which is better? Being an introvert or an extrovert? Maybe this event could give a possible answer. Test your team working and individuality skills by registering individually. You will be divided into two groups: Amalgams and Gangues. The Amalgams goal is to coalesce despite the efforts made by the Gangues to disintegrate their bond. If you are a Gangue, you must try your best to break the bonds of the Amalgams. Lets see how interesting things turn out to be!</item>
+
+        <item>Are you into live multiplayer games involving technology? Here is your chance to beguile us with your intuitive skills! Grab a trusted partner and begin your task. On the journey, you will design your own gun using electromagnetics, rediscover Tesla s wireless communication and encounter many rewards. Remember not to get short circuited!</item>
+
+        <item>PAPER PRESENTATION</item>
+        <item>PROJECT EXPO</item>
+
+
+    </string-array>
+    <string-array name="mme">
+        <item>Have you ever dreamt of flying your own rocket? THRUST is the ideal platform for you to show off your understanding of pressure control and fluid dynamics. Tap into your creativity and build a clean, safe and novel rocket by applying the effects of drag force on a dynamic domain. Your fuel can be as simple as water! Whether you have a passion for physics or design, you will experience the fun in true engineering at this event. So form a team of two or three and bag exciting cash prizes!</item>
+
+        <item>Are you ready for the biggest event in the history of Vulcanzy? This event has been so popular in the past that we had to come back and conduct the next installment! If you are a person who gets thrills from solving mysteries and puzzles, then this event will cater to your needs. So what are you waiting for? Grab your Sherlock hat, your Watson and showcase your case-cracking skills.</item>
+
+        <item>Remember playing with clay as a child? Relive those memories but this time with a twist...wax! You will be provided with all the materials required to prepare a mould of a particular pattern. The next step is to transform your mould into a wax cast. Ensure your masterpiece has the best shape, surface finish and minimum defects and declare yourselves as the winners! Its a first come, first serve event so hurry up and enroll soon!</item>
+
+        <item>The MMEA and MEA are happy to present WHAT IS BEYOND, the ultimate inquisitive quiz. How well do you know how things work? All you need for this event are some basic principles of science and your common sense. Frequent magazine visit can help you climb a step closer to victory. Apply your brain to real world applications and become the champion!</item>
+
+    </string-array>
+    <string-array name="civil">
+
+        <item>Do you get astonished by the beauty of Brooklyn bridge, mesmerized by the length of the Danyang bridge?? Are you one of those who are impressed by the mega structures and their constructions and principles? well we have got some amazing events for your inquisitive mind. This time the CEA come with a great event where you are going to get the opportunity to design, analyze and build a bridge of your own!! CEA here comes up with a popsicle bridge construction event” POPTICLE”.</item>
+
+        <item>We civil engineers are structural wizards! we do magic with our designing skills. Can you do magic with your designing skills? then design a structure using STAADPRO according to the given problem statement tackle the real world problems and be a pro at it.</item>
+
+        <item>Walking on a bridge, it is highly likely that you wonder about its construction, about its strength, its durability and its aesthetics being a civil engineer. so here this time we give you people an opportunity to flaunt your designing skills in the arch designing competition.</item>
+
+        <item>Ever thought how many ideas did you get every day and how many of them can revolutionize this world, Dont judge Yourself let the Experts judge it. So here we come with an event to give your ideas a platform to fly in the open sky.</item>
+
+        <item>Walking on a bridge, it is highly likely that you wonder about its construction, about its strength, its durability and its aesthetics being a civil engineer. so here this time we give you people an opportunity to flaunt your designing skills in the arch designing competition.</item>
+
+        <item>Ever thought the pace at which the technologies are growing these days, so you must be familiar with the modern as well as the most effective technical knowledge so that to meet the growing competition worldwide. And one of best way is a quiz where you can compete with the best mind and also can learn new things.</item>
+
+        <item>Ever thought the pace at which the technologies are growing these days, so you must be familiar with the modern as well as the most effective technical knowledge so that to meet the growing competition worldwide. And one of best way is a quiz where you can compete with the best mind and also can learn new things.</item>
+
+    </string-array>
+    <string-array name="mech">
+       <item>A fun and tech filled event where the cheers of the crowd will cheer up the participants to maneuver their mini RC aircrafts into the sky. The judgement will be based upon crowd’s Aww moments which the RC mini aircraft would have to earn by performing tricks!
+
+</item>
+
+        <item>The search has begun for all the innovative minds that can think for new and better solutions to problems existing in Agri, IT, educational and other sectors. The competition invites participation from students who can solve real life based problems providing impactful, feasible and economical solutions. The summit will involve enlightening speakers from respective fields and shortlisted participants will get a chance to present their ideas aided with presentation/ prototype/ simulation etc. Voice your opinion and be a change-maker!</item>
+
+        <item>From the Curiosity Rover to a simple door, mechanisms involved are limitless! Every once in a while, a new technology, an old problem and a small idea turn into an innovation. Do you have any potential idea that can create magic? This is the right platform for you and the best entrants will be given project sponsorship (tentative).</item>
+
+        <item> </item>
+
+        <item>Participants have to design RC bots. These manually controlled RC bots will compete against each other in a restricted arena. Performance will be evaluated based on the design, action strategy, the mounted weapons system and their defence tactics. Minimal rules, passionate teams, hardworked bots, monsterous weapons and goosebumps all around. Be War-ready!</item>
+
+    </string-array>
+    <string-array name="biotech">
+        <item>To explore and bring out the curious detective in you, forensics 2.0 is the right platform.It tests your presence of mind , time management and your ability to collect evidence and its analysis. The team to crack the crime scene by solving the given clues is declared winner.</item>
+
+        <item>To imbibe the knowledge of scientific names of plants, Biotechnology department is coming up with an event that puts to scrutiny your team spirit, ability to crack codes and search for clues using the scientific names of plants. The group to get maximum points at the end of the hunt wins.</item>
+
+        <item>To imbibe the knowledge of scientific names of plants, Biotechnology department is coming up with an event that puts to scrutiny your team spirit, ability to crack codes and search for clues using the scientific names of plants. The group to get maximum points at the end of the hunt wins.</item>
+    </string-array>
+
+
+    <string-array name="pnp">
+        <item>Apart from the usual drawing and coloring techniques, hand-painting can be a joyful experience. A team which consists of 2 participants will be provided with paints and asked to paint on their hands. Make the human hand your canvas. Paint anything from animalistic faces to something denoting the theme. It all depends on the creativity of the participants and their extent of imagination. A time period of 90 minutes will be given to all the participants. The top 2 teams that come up with the most unique and creative sets of painted hands will be the awarded as winner and runner.</item>
+        <item>As the name suggests, the competition is all about drawing an image that consists of only distinct straight lines and strictly no curves. Lines of different colors, width, and shades can be used to make a picture that emphasizes the theme of the event...super heroes!
+            The participants are expected to complete the drawing within the time provided which is 60 minutes.</item>
+        <item>The event will be held in 2 rounds. In the first round, riddles and puzzles will be given to each of the team members. The team which solves all the riddles will be qualified for the second round. And, in the second round, one team mate has to guess the word while the other explains it by
+            drawing within the time limit which will be 1 minute.</item>
+        <item>
+            A brush is to a painter, what a rifle is to solider, isn’t it? So, this event tests the ability
+            of an artist to color the canvas by turning anything around him/her into a brush within the time provided to them.
+        </item>
+        <item>A theme based short advertisement making competition. Participants will be given a particular theme, based on which they shall submit a short video of Ad, video length
+            limited to 60 or 90 seconds. The best and creative Ad submitted will be winning the contest.</item>
+        <item>This is an open photography contest where the participants submit their best photographs along with the photo details. There’s no theme or category for this contest. Participants can submit any 3 best pictures they’ve shot and can submit them to the club before the deadline. Of all the photographs submitted, one best picture, each from different categories of photography like Street/Portrait/Landscape/Nature/Macro photography and so on, will be picked and announced as winners.</item>
+        <item>People remain frozen in action like mannequins while a moving camera films them, often with a sound in the background. They will be sending the video of max length 30 sec. The best one will be selected and rewarded.</item>
+    </string-array>
+
+    <string-array name="music">
+        <item>Get ready to unleash the musician in you as the Music Club presents the Vulcanzy Idol, a platform for you to showcase your talent in the field of music, be it singing or playing instruments.
+            You can either rock it solo or perform in a band of maximum 4 members with instruments.</item>
+        <item>Are you the kind of person who knows the lines to any song that every random person hums?
+            You might be a source of irritation to others but your talent could be worth calling yourself the Lyrical Maestro of NIT Andhra Pradesh! Show off your knowledge in the exciting rounds of this event.</item>
+        <item>Think you are an ardent music fan? You might have to rethink now. Guess it.. win it.. is a fun but competitive event which is purely based on the quick response of the participants and their knowledge about music in general. So grab a partner and test yourself!</item>
+        <item>Enough of our college, it is time others get to know your potential in singing.
+            We bring to you Song Slam, an online singing event. Lets see how much everyone admires your talent and watch your popularity on Instagram shoot up! Sing a song (without karaoke) and post it in the Instagram by tagging it with our Instagram account(_musicclub_nitandhra), based on the number of likes winner will be decided. Songs of any language are allowed. You can even sing in a group of two or three people. Get double-taps and be the champion!</item>
+    </string-array>
+    <string-array name="magazine">
+        <item> Upload a selfie with your favourite book with a caption describing why you like that book, why you feel that book was exciting and why you could not stop reading it.</item>
+        <item>Looking for a way to give your brain a jumpstart? Try tackling 15 perplexing optical illusions in this interactive game. What is great about this setup is that when you are ready to see the answer, you can watch as the colours, shapes, and patterns are manipulated to show you how each illusion is made.</item>
+    </string-array>
+    <string-array name="dnd">
+        <item>Dont you guys wonder what you get other than followers by sharing and posting memes?? So the time has come to take your buried treasure of punchlines out in the world. It is an opportunity for you to make silent pictures speak and make the viewers not scroll down without a thumbs up and share. Load your meme gun and buckle up for the war.</item>
+        <item>Have you ever been to past? Plausibly no right! How about a machine rewinding the time for you. Yes its a boomerang challenge guys. Hurry up with the best Boomerang videos of yours let the world acknowledge them.</item>
+        <item>Here comes the most short and sweet event of VULCANZY 2K19. Now all you have to do is accelerate the pedal and run your brain to give out a mini script.So what are you waiting for grab this opportunity and showcase your talent.</item>
+        <item>Ever thought how the Dragons flies in GOT Or how Hobbs and Shaw fascinates the lifes of many, If yes then the time is here for you to make the HULK in you pop out and Show the world your creativity in the form of a SHORT FILM SHOWDOWN. So get ready to Act,Direct, Compete and Conquer.</item>
+        <item>To all the dancers who fly without wings, who dance instead of walking and Who desire gratification for their loved passion... Here is the rocking platform for you to rock! DND once again came to you with a dance competition DANZAMANIO for VULCANZY</item>
+        <item>Xpress Your Heart Out! Ever felt that theatre was your calling? Ever been called a ‘nautankibaaz’ by your friends? Ever felt like going mad on stage? Ever felt like making people cry or laugh with your drama? Ever felt to see your Short stories in a form of movie? If yes, well then, Xpressions is the place to be. With a platform amalgamating your talent in acting with a lot of fun and masti, NIT Andhra Pradesh welcomes you for a drama competition. </item>
+
+    </string-array>
+    <string-array name="dsh">
+        <item>Engineering can be simply defined as SMART WORK. Create the best of out nothing so that it can ease our life. In this event you need to use easily available, household items to make an output related to science or something which will make our life simple. We will provide everyone with some basic tools and equipment but you have to make the best out of it. Can you be the most creative person and win this event?</item>
+        <item>Have you ever fantasized about riding on a cool hover board like in Back to the Future 2? Were you ever mad that such a technology had not been created yet, or had been faked as a prank (yes, Back to the Future fans, I know you know what I am talking about)? Well, wait no longer! Remember those blot planks that everybody hangs around? In the upcoming Vulcanzy we are going to build our own electric hover board using a 12V DC motor, a small tire, and a household item at home that you can trip. Do you think you have what it takes to drive your own hoverboard?</item>
+        <item>A Van de Graaff generator is an electrostatic generator which uses a moving belt to accumulate electric charge on a hollow metal globe on the top of an insulated column, creating very high electric potentials. It produces very high voltage direct current electricity at low current levels. This event includes the demonstration and application of Van De Graff Generator. Fun Activities in store for you:- 1. Rising of hairs due to movement of electrons. 2. Sparking effect by movement of electrons between discharge ball and van der graff generator in dark. 3. Also flying of rice crispe over the van De graff generator due to electric field of van De graff generator. 4. Movement of fur over van der graff generator.</item>
+        <item>Have you ever dreamt about being a designer? Well, here is your chance! What you need is nothing but imagination skills to showcase your talents. This event is about designing hanging lanterns using paper. Just tell us how many papers and what colours you require. The most wonderful thing is that these lanterns will be hanging all over the campus during the fest!</item>
+        <item>Are you the kind of person who knows the lines to any song that every random person hums? You might be a source of irritation to others but your talent could be worth calling yourself the Lyrical Maestro of NIT Andhra Pradesh! Show off your knowledge in the exciting rounds of this event.</item>
+    </string-array>
+    <string name="title_activity_ff">Ff</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Exit</string>
+    <string-array name="COLLOQUIUM">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>SAITEJA APPALA</item>
+        <item>9441831645</item>
+        <item>411667@student.nitandhra.ac.in</item>
+    </string-array>
+
+    <string-array name="CRYPTACTAEON">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>A.Bhargav, NikhilA</item>
+        <item>7730033123</item>
+        <item>411619@student.nitandhra.ac.in</item>
+    </string-array>
+
+
+    <string-array name="CODESPRINT">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item>CHANDU.B</item>
+        <item>9381867398</item>
+        <item>411613@student.nitandhra.ac.in</item>
+    </string-array>
+
+    <string-array name="VIRTUALLYTRUE">
+        <item> </item>
+        <item></item>
+        <item></item>
+        <item>SHUBHAM</item>
+        <item>9441848336</item>
+        <item>subhamnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="WCRYPTOGRAPHY">
+        <item> </item>
+        <item></item>
+        <item></item>
+        <item>SHUBHAM</item>
+        <item>9441848336</item>
+        <item>subhamnitap@gmail.com</item>
+    </string-array>
+
+
+    /////// ECE
+
+
+    <string-array name="FORESEEthe4CS">
+        <item>4</item>
+        <item> </item>
+        <item>3 hrs on Day 1, 2.5 hrs on Day 2</item>
+        <item>Haritha</item>
+        <item>7842655559</item>
+        <item>ece4c.vulcanzy19@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="WORKSHOP">
+        <item> </item>
+        <item> </item>
+        <item>3.5 hrs</item>
+        <item>Praisy, Pavani</item>
+        <item>8106065197</item>
+        <item>ecewsvulcanzy19@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="ELECTROWIZARD">
+        <item> </item>
+        <item> </item>
+        <item>3 hrs</item>
+        <item>Aravind</item>
+        <item>9440705192</item>
+        <item>eceanitandhra@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="PAPERPRESENTATION">
+        <item> </item>
+        <item> </item>
+        <item>  </item>
+        <item>Karisma</item>
+        <item>7656947854</item>
+        <item>eceanitandhra@gmail.com</item>
+    </string-array>
+
+    <string-array name="CAZZLE">
+        <item></item>
+        <item></item>
+        <item>300</item>
+        <item>Arshiya Anjum, V. Shivani </item>
+        <item>9492785600, 8897602648 </item>
+        <item>ecemazevulcanzy19@gmail.com
+</item>
+    </string-array>
+
+    <string-array name="QUIZ">
+        <item></item>
+        <item></item>
+        <item>20/-</item>
+        <item>Dhanraj</item>
+        <item>8331844134</item>
+        <item>ecenitandhra@gmail.com</item>
+    </string-array>
+
+    <string-array name="MURKYMAZE">
+        <item> </item>
+        <item> </item>
+        <item></item>
+        <item>A.Ravi Teja</item>
+        <item>7731090134</item>
+        <item>ecemazevulcanzy19@gmail.com</item>
+    </string-array>
+
+
+    ///EEE
+
+
+    <string-array name="ALLABOUTCIRCUITS">
+        <item> </item>
+        <item> </item>
+        <item>3hrs</item>
+        <item>Sahithi,Manikanta,Gayatri</item>
+        <item>7036398169</item>
+        <item>ksahithi1999@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="ARCHIPELAGO">
+        <item> </item>
+        <item> </item>
+        <item>4hrs</item>
+        <item>Tanvi,Himaja</item>
+        <item>8497905584</item>
+        <item>tanvigudapati@gmail.com</item>
+    </string-array>
+
+    <string-array name="BACKTOTHEORIGINS">
+        <item> </item>
+        <item> </item>
+        <item>3hrs</item>
+        <item>Himaja,Tanvi,Chandana</item>
+        <item>8333808546</item>
+        <item>himajayamasani@gmail.com</item>
+    </string-array>
+
+    <string-array name="AMALGAMATE">
+        <item> </item>
+        <item> </item>
+        <item>3hrs</item>
+        <item>Sravya, Tanvi,Vandan</item>
+        <item>8330971998</item>
+        <item>agsravya@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="DECEPTION">
+        <item> </item>
+        <item> </item>
+        <item>4 hrs</item>
+        <item>Vishnu</item>
+        <item>8089442725 </item>
+        <item>vishnu.ajayan08@gmail.com</item>
+    </string-array>
+    <string-array name="EPAPERPRESENTATION">
+        <item> </item>
+        <item> </item>
+        <item></item>
+        <item>Surendra,Meghana,Saleem</item>
+        <item>8179060324</item>
+        <item>surendrasrinivasmali@gmail.com
+        </item>
+    </string-array>
+    <string-array name="PROJECTEXPO">
+        <item> </item>
+        <item> </item>
+        <item></item>
+        <item>Tarun,Satish,Santoshi</item>
+        <item>7989268545,7780144689</item>
+        <item>tarunkumartej597@gmail.com</item>
+    </string-array>
+
+
+    //CIVIL
+
+    <string-array name="CIVILOPEDIA">
+        <item>1</item>
+        <item>250/-</item>
+        <item>3 DAYS</item>
+        <item>N Vikshay rao</item>
+        <item>9491657359</item>
+        <item>vikshayrao@gmail.com</item>
+    </string-array>
+
+    <string-array name="CRACKTHESTRUCTURE">
+        <item>1</item>
+        <item>250/-</item>
+        <item>2hrs</item>
+        <item>V Arundhathi</item>
+        <item>9133416931</item>
+        <item>arundhathivantepaka@gmail.com</item>
+    </string-array>
+
+    <string-array name="CONCREATE">
+        <item>1</item>
+        <item>250/-</item>
+        <item>3hrs</item>
+        <item>K.Vindhya</item>
+        <item>9550260017</item>
+        <item>vindhya.vamsy@gmail.com</item>
+    </string-array>
+
+    <string-array name="PAPERPRESENTO">
+        <item>1</item>
+        <item>FREE</item>
+        <item>3hrs</item>
+        <item>S Manasa</item>
+        <item>9490169522</item>
+        <item>sreeram.n.l.manasa@gmail.com</item>
+    </string-array>
+
+    <string-array name="askme">
+        <item>3</item>
+        <item>FREE</item>
+        <item>2 hrs</item>
+        <item>J Sri Harika </item>
+        <item>7981612613</item>
+        <item>jajulasriharika08@gmail.com</item>
+    </string-array>
+
+    <string-array name="ville">
+        <item>1</item>
+        <item>250/-</item>
+        <item>3hrs</item>
+        <item>Y Satyavani </item>
+        <item>8886362609</item>
+        <item>satyavaniyerra33@gmail.com</item>
+    </string-array>
+    <string-array name="LA">
+        <item></item>
+        <item>50/-</item>
+        <item></item>
+        <item>Kalyan Kumar </item>
+        <item>7013300739 </item>
+        <item></item>
+    </string-array>
+
+    //METULLARGY
+
+
+    <string-array name="OneThrust">
+        <item>3</item>
+        <item>30/-</item>
+        <item>3hrs</item>
+        <item>vikash Kumar ray</item>
+        <item>7903292972</item>
+        <item>raushanlki98@gmail.com</item>
+    </string-array>
+
+    <string-array name="Riddlehurdles">
+        <item>3</item>
+        <item>20</item>
+        <item>DAY-1: 1 HOUR,DAY-2: 1 HOUR</item>
+        <item>O.Praneeth</item>
+        <item>9705031849</item>
+        <item>opraneethreddy@gmail.com</item>
+    </string-array>
+
+    <string-array name="Waxmockup">
+        <item>1</item>
+        <item>FREE FOR NIT AP STUDENTS</item>
+        <item>4 hrs</item>
+        <item>M Sritejaswini</item>
+        <item>9492000486</item>
+        <item>msritejaswini@gmail.com</item>
+    </string-array>
+
+    <string-array name="Whatsbeyond">
+        <item>2</item>
+        <item>10/-</item>
+        <item>DAY-1: 1 HOUR,DAY-2: 1 HOUR</item>
+        <item>S.Vinod Kumar</item>
+        <item>7013281210</item>
+        <item>sabavathvinodkumar60@gmail.com</item>
+    </string-array>
+
+
+    // BIO-TECH
+
+    <string-array name="Forensicsv2">
+        <item>3</item>
+        <item>10/person</item>
+        <item>4 hours</item>
+        <item>Pilli Akhil</item>
+        <item>7661876146</item>
+        <item>bea.nitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="Gardenscavengers">
+        <item>1</item>
+        <item>20/team</item>
+        <item>2 hours</item>
+        <item>Sree Raj Akhil</item>
+        <item>7702290359</item>
+        <item>bea.nitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="Lumiere">
+        <item>2</item>
+        <item>FREE</item>
+        <item>2 hours</item>
+        <item>J. Roshini</item>
+        <item>-</item>
+        <item>bea.nitap@gmail.com</item>
+    </string-array>
+
+
+    //MECH
+
+    <string-array name="AMMC">
+        <item> </item>
+        <item>500/team</item>
+        <item>4 hrs</item>
+        <item>Saurav</item>
+        <item>7739465809 </item>
+        <item>anshusingh21198@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="GISS">
+        <item> </item>
+        <item> </item>
+        <item>4 hrs</item>
+        <item>N.B.R Kaushik</item>
+        <item>9441282580</item>
+        <item>kkaushi7@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="MARC">
+        <item> </item>
+        <item>FREE</item>
+        <item>4 hrs</item>
+        <item>Yogesh</item>
+        <item>9130633135</item>
+        <item>Patilmapari@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="RoboWar">
+        <item> </item>
+        <item>200/team</item>
+        <item>4 hrs</item>
+        <item>M.Saikiran</item>
+        <item>9182289736</item>
+        <item>saikiranmallembakam15@gmail.com</item>
+    </string-array>
+
+    <string-array name="work">
+        <item> </item>
+        <item>FREE</item>
+        <item>3 hrs</item>
+        <item>K.Spandan</item>
+        <item>9490090209</item>
+        <item>spandan2344@gmail.com</item>
+    </string-array>
+    //MUSIC
+
+    <string-array name="Talenthunt">
+        <item> </item>
+        <item>50/-</item>
+        <item>3 hours/2days</item>
+        <item>Swaroopa</item>
+        <item>8374411375</item>
+        <item>swaroopawendly37@gmail.com</item>
+    </string-array>
+
+    <string-array name="lyricalmaestro">
+        <item> </item>
+        <item>50/-</item>
+        <item>3 hrs</item>
+        <item>Kiranmayi</item>
+        <item>9493744988</item>
+        <item>kiranmaipulya@gmail.com</item>
+    </string-array>
+
+    <string-array name="GuessitWinit">
+        <item> </item>
+        <item>50/-</item>
+        <item>3 hrs</item>
+        <item>Uday</item>
+        <item>9515570887</item>
+        <item>udaykumarteegala@gmail.com</item>
+    </string-array>
+
+    <string-array name="Instagramvideos">
+        <item>one level</item>
+        <item> </item>
+        <item> </item>
+        <item>Unnathi</item>
+        <item>9110528561 </item>
+        <item>unnathi.c@gmail.com</item>
+    </string-array>
+
+
+    // P N P
+
+    <string-array name="HandPainting">
+        <item>0</item>
+        <item>20/-</item>
+        <item>3 hrs</item>
+        <item>Sai Kiran,Appala Reddy,Vishal</item>
+        <item>9182289736</item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="ArtinLine">
+        <item>0</item>
+        <item>FREE</item>
+        <item>3 hrs </item>
+        <item>Santhoshi,Praneesh,Ramya</item>
+        <item>7093567225</item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="ARTATHON">
+        <item>2</item>
+        <item>FREE</item>
+        <item>3 hrs</item>
+        <item>Khyathi Aneesha,Tanmayi</item>
+        <item>7995956499</item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="PaintWithoutBrush">
+        <item>1</item>
+        <item>FREE</item>
+        <item>3 hrs </item>
+        <item>Nivas,Vani,Navya  </item>
+        <item>7893935978  </item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+
+    <string-array name="ADMAKING">
+        <item>0</item>
+        <item>FREE</item>
+        <item>1 hour</item>
+        <item>Nitin, Tarun Aman Rao</item>
+        <item>9490271374 </item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="PHOTOCONTEST">
+        <item>0</item>
+        <item>FREE</item>
+        <item>ONLINE EVENT</item>
+        <item>Nuthan,Jithendreswar,Azharuddin </item>
+        <item>9492230494 </item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+    <string-array name="MANNEQUIN">
+        <item>0</item>
+        <item>FREE</item>
+        <item>ONLINE EVENT</item>
+        <item>Vikas,Bhardwaj,Shiva </item>
+        <item>9292755807 </item>
+        <item>pnpnitap@gmail.com</item>
+    </string-array>
+
+
+    //MAG
+
+    <string-array name="Bookfie">
+        <item>1</item>
+        <item> </item>
+        <item> </item>
+        <item> M.Monica,K.V.R Yashwant</item>
+        <item>9502593474/7675022428</item>
+        <item>monicamatta999@gmail.com</item>
+    </string-array>
+
+    <string-array name="Illusion">
+        <item>1</item>
+        <item>FREE</item>
+        <item>30 minutes</item>
+        <item>Mubeen, Manjunadh, Srilekha</item>
+        <item>8184883793/9951540702/9494291402</item>
+        <item>manjunadhreddyjampana@gmail.com</item>
+    </string-array>
+
+    //SnH
+
+
+    <string-array name="BESTOUTOFWASTE">
+        <item> </item>
+        <item>50/team</item>
+        <item>4 hrs</item>
+        <item>KETAN BANSAL</item>
+        <item>6264079466</item>
+        <item>ketan.bansal255@gmail.com</item>
+    </string-array>
+
+    <string-array name="LAZYHOVERV">
+        <item> </item>
+        <item>50/person</item>
+        <item>3-4 hrs</item>
+        <item>UMESH YADAV</item>
+        <item>8789853068</item>
+        <item>umeshyadav1997@gmail.com</item>
+    </string-array>
+
+    <string-array name="VanDeGraffGenerator">
+        <item> </item>
+        <item>50/person</item>
+        <item>1 day</item>
+        <item>RITURAJ SINGH SUJAWAT</item>
+        <item>7597575752</item>
+        <item>riturajsinghsujawat@gmail.com</item>
+    </string-array>
+
+    <string-array name="LANTERNMAKING">
+        <item> </item>
+        <item>50/team</item>
+        <item>2-3 hrs</item>
+        <item>P N S MEGHANA</item>
+        <item>9063033023</item>
+        <item>pnsmeghana@gmail.com</item>
+    </string-array>
+
+    <string-array name="RUNTOWIN">
+        <item> </item>
+        <item>100/team</item>
+        <item>1 day</item>
+        <item>SRAVYA D </item>
+        <item>9490597205 </item>
+        <item>d.v.s.s.bhuvanasravya@gmail.com</item>
+    </string-array>
+
+    //D N D
+
+    <string-array name="MEMEfinitywar">
+        <item> </item>
+        <item></item>
+        <item> </item>
+        <item>Shreyas, Akhilesh</item>
+        <item>6204828580, 8367229807</item>
+        <item>ssahay3105@gmail.com, boinapallyabhi@gmail.com</item>
+    </string-array>
+
+    <string-array name="Boomerang">
+        <item> </item>
+        <item> </item>
+        <item>4-8sec</item>
+        <item>Supriya, Akash</item>
+        <item>8143686771, 9834015455</item>
+        <item>akashsuryawanshi328@gmail.com</item>
+    </string-array>
+
+    <string-array name="TellaTale">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>Sai pavan, Sandeep gajula</item>
+        <item>8096986594, 6304214136</item>
+        <item>saipavanraja99@gmail.com, sangajula20@gmail.com</item>
+    </string-array>
+
+    <string-array name="Shortfilm">
+        <item> </item>
+        <item> </item>
+        <item>10-15 min</item>
+        <item>Divya Ashish, Gayatri</item>
+        <item>7909041287, 9490039009</item>
+        <item>divyaashishkat@gmail.com, vlpg98@yahoo.in</item>
+    </string-array>
+
+
+    <string-array name="dramacomp">
+        <item> </item>
+        <item> </item>
+        <item>1st Round(11-03-19)-3hrs, 2nd Round(14-03-19)-1hr</item>
+        <item>Charan , Utkarsh </item>
+        <item>9440894279, 9695605859 </item>
+        <item>yeddulacharankumarreddy1999@gmail.com
+</item>
+    </string-array>
+
+
+    <string-array name="dancecomp">
+        <item> </item>
+        <item> </item>
+        <item>1st Round(12-03-19)-3hrs, 2nd Round(14-03-19)-1hr</item>
+        <item>Komali, Lahari </item>
+        <item>9121511312, 9963037253 </item>
+        <item>komalip97@gmail.com, laharigadili@gmail.com</item>
+    </string-array>
+
+
+    ///CHEM
+
+
+    <string-array name="LECTURES">
+        <item> </item>
+        <item></item>
+        <item> </item>
+        <item>Shreyas, Akhilesh</item>
+        <item>6204828580, 8367229807</item>
+        <item>ssahay3105@gmail.com, boinapallyabhi@gmail.com</item>
+    </string-array>
+
+    <string-array name="AlChemy">
+        <item> </item>
+        <item> </item>
+        <item>4-8sec</item>
+        <item>Supriya, Akash</item>
+        <item>8143686771, 9834015455</item>
+        <item>akashsuryawanshi328@gmail.com</item>
+    </string-array>
+
+    <string-array name="ExQuizite">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>Sai pavan, Sandeep gajula</item>
+        <item>8096986594, 6304214136</item>
+        <item>saipavanraja99@gmail.com, sangajula20@gmail.com</item>
+    </string-array>
+
+    <string-array name="Pheonix">
+        <item> </item>
+        <item> </item>
+        <item>10-15 min</item>
+        <item>Divya Ashish, Gayatri</item>
+        <item>7909041287, 9490039009</item>
+        <item>divyaashishkat@gmail.com, vlpg98@yahoo.in</item>
+    </string-array>
+
+
+    <string-array name="BlastDarts">
+        <item> </item>
+        <item> </item>
+        <item>1st Round(11-03-19)-3hrs, 2nd Round(14-03-19)-1hr</item>
+        <item>Charan , Utkarsh </item>
+        <item>9440894279, 9695605859 </item>
+        <item>yeddulacharankumarreddy1999@gmail.com
+</item>
+    </string-array>
+
+
+    <string-array name="QuickG">
+        <item> </item>
+        <item> </item>
+        <item> </item>
+        <item>Audithya, Teja Sree, Sai, Sasirekha </item>
+        <item>9502593474, 7675022428  </item>
+        <item>chemicaleng@gmail.com</item>
+    </string-array>
+
+
+</resources>

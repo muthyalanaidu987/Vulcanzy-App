@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/eventchilds"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/childtv"
+        android:layout_width="wrap_content"
+        android:paddingLeft="20px"
+        android:layout_margin="20dp"
+        android:textColor="@color/black"
+        android:layout_marginLeft="5dp"
+        android:layout_height="30dp"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="Description:" />
+
+    <EditText
+        android:id="@+id/childe"
+        android:layout_width="fill_parent"
+        android:layout_height="180dp"
+        android:layout_marginTop="1dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:autoSizeMaxTextSize="100dp"
+        android:background="@drawable/signuplayout"
+        android:cursorVisible="false"
+        android:scrollbars="vertical"
+        android:scrollbarStyle="insideInset"
+        android:drawablePadding="10dp"
+        android:editable="false"
+        android:elevation="10dp"
+        android:gravity="start|end"
+        android:outlineAmbientShadowColor="@color/sea_green"
+        android:overScrollMode="always"
+        android:paddingLeft="20px"
+        android:paddingRight="15px"
+        android:paddingBottom="20px"
+        android:text="Description"
+        android:textAlignment="textStart"
+        android:textColor="@color/white"
+        android:textColorHighlight="@color/sea_green"
+        android:textSize="18sp"
+        android:textStyle="normal"></EditText>
+
+    <Button
+        android:id="@+id/childb"
+        android:layout_width="185dp"
+        android:layout_height="30dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="20px"
+        android:layout_marginBottom="3pt"
+        android:background="@drawable/btn"
+        android:elevation="10dp"
+        android:paddingBottom="4px"
+        android:textColor="@color/white" />
+    <Button
+        android:id="@+id/moreb"
+        android:layout_width="185dp"
+        android:layout_height="30dp"
+        android:elevation="10dp"
+        android:layout_marginLeft="95dp"
+        android:layout_marginTop="20px"
+        android:layout_marginBottom="4pt"
+        android:background="@drawable/btn"
+        android:paddingBottom="2px"
+        android:textColor="@color/white" />
+
+
+        <LinearLayout
+            android:id="@+id/deslayout"
+            android:background="@drawable/signuplayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_margin="10dp"
+            android:elevation="10dp"
+            android:padding="10dp" >
+            <TextView
+                android:id="@+id/fee"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:text="Fee:"/>
+
+            <TextView
+                android:id="@+id/org"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:text="Organisers:"/>
+
+            <TextView
+                android:id="@+id/email"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black_overlay"
+                android:layout_marginBottom="5dp"
+                android:text="Email:"/>
+            <Button
+                android:id="@+id/con"
+                android:layout_width="wrap_content"
+                android:layout_height="20dp"
+                android:paddingLeft="2dp"
+                android:paddingRight="3dp"
+                android:textSize="10dp"
+                android:background="@drawable/contacts"
+                android:textColor="@color/black"
+                android:layout_marginBottom="5dp"
+                android:text="Contact:"/>
+        </LinearLayout>
+</LinearLayout>
+    </ScrollView>
